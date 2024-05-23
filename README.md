@@ -11,3 +11,6 @@ Then firstly, I used VGG model with some extra layers, which didnt give a pretty
 Then, I thought of using Some other models like EfficientNet or MobileNet, but I didn't have much time.
 
 I did try one interesting approach which was of FaceInPainting, approach was to inpaint face in place of mask, and then classify the image got as if person didn't wear mask. This would have produced very good results, but Faceinpainting try, failed miserabely as I wasn't able to get the job done.
+
+
+Some saved checkpoints : https://drive.google.com/file/d/152shMi6CwDGckplVwO6GEzRiQQ_yd-Kz/view?usp=sharing, https://drive.google.com/file/d/1MJkWG5_m5BJiiYzb1qGVxwD2Cghpknxz/view?usp=sharing
